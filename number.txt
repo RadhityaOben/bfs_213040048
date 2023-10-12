@@ -1,0 +1,9 @@
+0 = btc
+1 = kings
+2 = ip
+3 = ciwalk
+4 = pvj
+5 = tsm
+6 = fcl
+7 = bip
+8 = paskal
